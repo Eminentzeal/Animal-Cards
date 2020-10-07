@@ -6,39 +6,59 @@
 }
 
 .blackbg{
-    margin:0 auto;
-    /* background-color: black; */
-    padding-left: 30%;
-    padding-right: 32%;
-    width: 30%;
+    margin:  0 auto;
+    background-color: black;
 }
 
 .whitebg{
-    margin: auto;
+    margin: 0 auto;
     background-color: white;
+    max-width: 410px;
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-bottom: 1%;
 }
 
 .parent{
-    padding-top: 3%;
-    padding-bottom: 55%;
-    /* max-width: 400px; */
-    /* width: 50%; */
-    padding-left: 10%;
+    outline-style: groove;
+    outline-color: rgb(170, 165, 165);
+    padding-bottom: 1%;
+    padding-left: 3%;
+    padding-right: 3%;
+    margin-top: 10%;
 }
 
 .title{
-    margin-bottom: 3%;
+    margin-top: 2%;
+    margin-bottom: 2%;
 }
 
 .fish{
-    background-image: url(clownfish.jpg);
-    padding-top: 25px;
-    padding-bottom: 35%;
-    padding-left: 80%;  
-    margin-bottom: 3%;
+    background-image: url(Clownfish1.jpg);
+    width: 385px;
+    height: 250px;
+    margin-bottom: 5%;
 }
 
 .border{
+    outline-style: groove;
+    outline-color: rgb(170, 165, 165);
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-bottom: 18%;
+    padding-top: 5%;
+}
+
+.layer{
+    font-style: italic;
+    margin-bottom: 5%;
+}
+
+.list{
 
 }
 
+.bright{
+    margin-top: 5%;
+}
+   
