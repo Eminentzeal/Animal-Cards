@@ -1,15 +1,14 @@
 # About The Project
 This is about creating a card describing an animal named clownfish
-
-## 
-# Image
+ 
+## Image
 ![welcome interface.](./assets/images/fish.png) "This is the Home web page")
 
-# Built With
+## Built With
 * CSS
 * HTML
 
-# Author
+## Author
 * 👨‍🦱Ezekiel Ogunniwa
     * Github: https://github.com/Eminentzeal
     * linkedin: https://www.linkedin.com/in/ogunniwaezekiel/
@@ -18,13 +17,13 @@ This is about creating a card describing an animal named clownfish
     * Github: https://github.com/Esther94
     * Twitter: @Esther62849599
 
-# Facilitators
+## Facilitators
 * [Godwin Nwachukwu](https://github.com/Gnwin).
 
 * [Chioma Nwachukwu](https://github.com/Chiomy).
 * [Tim Chosen](www.twitter.com/timchosen)
 
-# Acknowledgements
+## Acknowledgements
 * HomeFrontStartup
     * http://homefrontstartup.com.ng/
 * [Mentors International](https://mentorsint.com/)
@@ -32,8 +31,8 @@ This is about creating a card describing an animal named clownfish
     * https://twitter.com/hub_mic
     * https://www.linkedin.com/company/michub/
 
-# Live Demo
+## Live Demo
 [See project live here] (https://raw.githack.com/Eminentzeal/Animal-Cards/main/index.html)
 
-# 🤝 Contributions
+## 🤝 Contributions
 * This project is open to your comments and contributions, kindly reach the author through the above author's social media handles.
