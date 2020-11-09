@@ -33,7 +33,7 @@ This is about creating a card describing an animal named clownfish
     * https://www.linkedin.com/company/michub/
 
 # Live Demo
-[See project live here] (https://raw.githack.com/Eminentzeal/Conference-Page-Ezekiel-Esther/main/index.html)
+[See project live here] (https://raw.githack.com/Eminentzeal/Animal-Cards/main/index.html)
 
 # 🤝 Contributions
 * This project is open to your comments and contributions, kindly reach the author through the above author's social media handles.
