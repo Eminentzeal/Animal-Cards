@@ -1,10 +1,9 @@
 #Animal Card
 
 # About The Project
-This is about creating a card describing an animal named clownfish
- 
-## Image
-![welcome interface.](./assets/images/fish.png) "This is the Home web page")
+This is about creating a card describing an animal named clownfish, 
+ this template canalso beadopted to create a website giving description to anything at allage
+![welcome interface.](./assets/images/fish.png)
 
 ## Built With
 * CSS
