@@ -1,3 +1,5 @@
+#Animal Card
+
 # About The Project
 This is about creating a card describing an animal named clownfish
  
@@ -10,12 +12,12 @@ This is about creating a card describing an animal named clownfish
 
 ## Author
 * 👨‍🦱Ezekiel Ogunniwa
-    * Github: https://github.com/Eminentzeal
-    * linkedin: https://www.linkedin.com/in/ogunniwaezekiel/
-    * Twitter: https://twitter.com/Ogunniwaezekiel
+  * Github: https://github.com/Eminentzeal
+  * linkedin: https://www.linkedin.com/in/ogunniwaezekiel/
+  * Twitter: https://twitter.com/Ogunniwaezekiel
 * 👩Esther Davies
-    * Github: https://github.com/Esther94
-    * Twitter: @Esther62849599
+  * Github: https://github.com/Esther94
+  * Twitter: @Esther62849599
 
 ## Facilitators
 * [Godwin Nwachukwu](https://github.com/Gnwin).
@@ -24,15 +26,14 @@ This is about creating a card describing an animal named clownfish
 * [Tim Chosen](www.twitter.com/timchosen)
 
 ## Acknowledgements
-* HomeFrontStartup
-    * http://homefrontstartup.com.ng/
+* [HomeFrontStartup](http://homefrontstartup.com.ng/
 * [Mentors International](https://mentorsint.com/)
-    * https://www.facebook.com/mentorshubyola/
-    * https://twitter.com/hub_mic
-    * https://www.linkedin.com/company/michub/
+  * https://www.facebook.com/mentorshubyola/
+  * https://twitter.com/hub_mic
+  * https://www.linkedin.com/company/michub/
 
 ## Live Demo
-[See project live here] (https://raw.githack.com/Eminentzeal/Animal-Cards/main/index.html)
+[Click Here to see project live](https://ezekiel-esther-animal-card.netlify.app/)
 
 ## 🤝 Contributions
 * This project is open to your comments and contributions, kindly reach the author through the above author's social media handles.
