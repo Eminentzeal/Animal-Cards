@@ -25,7 +25,7 @@ this template canalso beadopted to create a website giving description to anythi
 * [Tim Chosen](www.twitter.com/timchosen)
 
 ## Acknowledgements
-* [HomeFrontStartup](http://homefrontstartup.com.ng/
+* [HomeFrontStartup](http://homefrontstartup.com.ng)
 * [Mentors International](https://mentorsint.com/)
   * https://www.facebook.com/mentorshubyola/
   * https://twitter.com/hub_mic
