@@ -5,52 +5,47 @@
   text-decoration: none;
 }
 
-.blackbg{
+body {
   margin:  0 auto;
   background-color: black;
 }
 
-.whitebg{
+.container {
   margin: 0 auto;
   background-color: white;
   max-width: 410px;
   padding: 2%;
 }
 
-.parent{
+.parent-container {
   outline-style: groove;
   outline-color: rgb(243, 236, 236);
   outline: 1px solid gray;
   padding: 3%;
 }
 
-.title{
+.title {
   margin-top: 2%;
   margin-bottom: 2%;
 }
 
-.fish{
+img {
   width: 385px;
   height: 250px;
   margin-bottom: 5%;
 }
 
-.border{
-    outline-style: groove;
-    outline-color: rgb(243, 236, 236);
-    outline: 1px solid gray;
-    padding-left: 2%;
-    padding-right: 2%;
-    padding-bottom: 18%;
-    padding-top: 5%;
+.text-container {
+  outline-style: groove;
+  outline: 1px solid gray;
+  padding: 5% 2% 18% 2%;
 }
 
-.layer{
-    font-style: italic;
-    margin-bottom: 5%;
+.text {
+  font-style: italic;
+  margin-bottom: 5%;
 }
 
-.bright{
-    margin-top: 5%;
+.text-last {
+  margin-top: 5%;
 }
-   
