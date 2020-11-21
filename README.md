@@ -2,7 +2,7 @@
 
 # About The Project
 This is about creating a card describing an animal named clownfish, 
- this template canalso beadopted to create a website giving description to anything at allage
+this template canalso beadopted to create a website giving description to anything at all
 ![welcome interface.](./assets/images/fish.png)
 
 ## Built With
