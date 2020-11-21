@@ -1,6 +1,4 @@
-#Animal Card
-
-# About The Project
+# Animal Card
 This is about creating a card describing an animal named clownfish, 
 this template canalso beadopted to create a website giving description to anything at all
 ![welcome interface.](./assets/images/fish.png)
